@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>605981097027-vjhh24d51jek6jaim6hvp3med2g0qslu.apps.googleusercontent.com</string>
+	<string>243075573891-ljm4q2tgj3okop29d79781ltkpv50cbj.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.605981097027-vjhh24d51jek6jaim6hvp3med2g0qslu</string>
+	<string>com.googleusercontent.apps.243075573891-ljm4q2tgj3okop29d79781ltkpv50cbj</string>
 	<key>API_KEY</key>
-	<string>AIzaSyD59EzxcrGdZsknvYYB0vEVrw8w9jtZNLw</string>
+	<string>AIzaSyA33oeIyCXJ9etaUkAOSTBZ3iQ23vuR2bc</string>
 	<key>GCM_SENDER_ID</key>
-	<string>605981097027</string>
+	<string>243075573891</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>uk.co.workingedge.firebase.test</string>
+	<string>com.marefat.marefatmobile</string>
 	<key>PROJECT_ID</key>
-	<string>fir-test-7d995</string>
+	<string>marefat-d53c9</string>
 	<key>STORAGE_BUCKET</key>
-	<string>fir-test-7d995.appspot.com</string>
+	<string>marefat-d53c9.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,8 +29,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:605981097027:ios:f0724ba3f55a03d2</string>
+	<string>1:243075573891:ios:175fcb84b84e63901753b6</string>
 	<key>DATABASE_URL</key>
-	<string>https://fir-test-7d995.firebaseio.com</string>
+	<string>https://marefat-d53c9.firebaseio.com</string>
 </dict>
 </plist>

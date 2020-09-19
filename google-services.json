@@ -1,41 +1,42 @@
 {
   "project_info": {
-    "project_number": "605981097027",
-    "firebase_url": "https://fir-test-7d995.firebaseio.com",
-    "project_id": "fir-test-7d995",
-    "storage_bucket": "fir-test-7d995.appspot.com"
+    "project_number": "243075573891",
+    "firebase_url": "https://marefat-d53c9.firebaseio.com",
+    "project_id": "marefat-d53c9",
+    "storage_bucket": "marefat-d53c9.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:605981097027:android:f0724ba3f55a03d2",
+        "mobilesdk_app_id": "1:243075573891:android:1d90c5f53ac2fcea1753b6",
         "android_client_info": {
-          "package_name": "uk.co.workingedge.firebase.test"
+          "package_name": "com.marefat.marefatmobile"
         }
       },
       "oauth_client": [
         {
-          "client_id": "605981097027-2f3h4lj88fv6ktftpsr8jt8q5vqocchs.apps.googleusercontent.com",
+          "client_id": "243075573891-lbo7hs7p18j25ci5g0cfj2p59v5a7jqq.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB_7hXc-PmIPCzMRiuckJUE0-337cHQXy4"
+          "current_key": "AIzaSyC49_jSWLN30UEsisv6zLvrvT300aBk4RA"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "605981097027-2f3h4lj88fv6ktftpsr8jt8q5vqocchs.apps.googleusercontent.com",
+              "client_id": "243075573891-lbo7hs7p18j25ci5g0cfj2p59v5a7jqq.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "605981097027-vjhh24d51jek6jaim6hvp3med2g0qslu.apps.googleusercontent.com",
+              "client_id": "243075573891-ljm4q2tgj3okop29d79781ltkpv50cbj.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "uk.co.workingedge.firebase.test"
+                "bundle_id": "com.marefat.marefatmobile",
+                "app_store_id": "1517067975"
               }
             }
           ]
